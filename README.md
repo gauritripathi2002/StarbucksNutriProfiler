@@ -1,6 +1,6 @@
 # Starbucks Nutritional Analysis🧋
 
-Welcome to the Starbucks Nutritional Analysis project. This project dives into the nutritional information of various beverages offered by the popular coffee chain, Starbucks. Using data analysis and visualization techniques, we explore the constituents of these beverages to understand their nutritional value.
+Welcome to the Starbucks Nutritional Analysis project. This project dives into the nutritional information of various beverages offered by the popular coffee chain, Starbucks. 
 
 ## Project Description
 
